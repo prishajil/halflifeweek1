@@ -19,7 +19,6 @@
 | [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | — | 4 | $0.00 | $0.00 | [Amazon](https://www.amazon.com//dp/B0FQP8VYX4) |
 | [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | — | 4 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0CQ2VLMVY) |
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
-| [PCB](https://www.jlcpcb.com/) | — | 1 | $0.00 | $0.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$0.00** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
 | **Total** | — | — | — | **$0.00** | — |
