@@ -21,7 +21,7 @@
 | [10k Resistor](https://www.addicore.com/products/10k-ohm-1-4w-precision-resistor?_su_rec=R76qX_fZJZL6g3kXQINdC2Rw67UEmnbBfnwfI36LsI1Um_-5Z9x3vy3GbkCu6m6hvEVmPTtMlVWTaI8144FtxqWG_-RjDtD_wKRwhifkBwP9B5s61qVdSQMfbkeva0_1WzXbrIIXdur733hKR8bECv9v3o7j1_ihFvgluzNX25-XSPNPpq994dqBUnovN5511N4tKpvN4SggyRJ3RLKe9Buc3U3A19iC1lw_KFx1o9nsoBNC1e-ZsTrqYsLOoFkxR6oAUUnFYd5cZSLrwR56j-XQRvGrQ-gc61vpdBB_2H08SoJiS-1-k-2mMHKAQyTskb3ElBKS7OfiGWUOgeamLA&_su_rec_id=64825e44-72a5-4770-87e6-e58860e8f016-1791772037) | Will limit/control the electrical current in the circuit (depending on how it's connected) & keep digital input pins locked in high or low states to eliminate noise.(Ordering 2 for backup) | 2 | $0.10 | $0.20 | [Addicore](https://www.addicore.com/products/10k-ohm-1-4w-precision-resistor?_su_rec=R76qX_fZJZL6g3kXQINdC2Rw67UEmnbBfnwfI36LsI1Um_-5Z9x3vy3GbkCu6m6hvEVmPTtMlVWTaI8144FtxqWG_-RjDtD_wKRwhifkBwP9B5s61qVdSQMfbkeva0_1WzXbrIIXdur733hKR8bECv9v3o7j1_ihFvgluzNX25-XSPNPpq994dqBUnovN5511N4tKpvN4SggyRJ3RLKe9Buc3U3A19iC1lw_KFx1o9nsoBNC1e-ZsTrqYsLOoFkxR6oAUUnFYd5cZSLrwR56j-XQRvGrQ-gc61vpdBB_2H08SoJiS-1-k-2mMHKAQyTskb3ElBKS7OfiGWUOgeamLA&_su_rec_id=64825e44-72a5-4770-87e6-e58860e8f016-1791772037) |
 | [PCB](https://www.jlcpcb.com/) | Will translate software instructions into physical motion by connecting all parts ($10.30 originally; $6.30 if you select $2 shipping) | 1 | $6.30 | $6.30 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$25.84** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$25.84** | — |
+| **Tax & shipping** | — | — | — | **$4.30** | — |
+| **Total** | — | — | — | **$30.14** | — |
 
-$4.16 left of the tier's funding.
+**$0.14 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
